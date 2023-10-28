@@ -11,13 +11,6 @@ const GameComponent = () => {
   const [nextIcon, setNextIcon] = useState(1)
   const [winner, setWinner] = useState(0)
 
-  const [state , updateState] = useState({
-    data :[0,0,0,0,0,0,0,0,0],
-    nextIcon : 1,
-    winner : 0
-  })
-  
-
   const handleTick = (tick : number) => {
     if(data[tick] !== 0)
       return 0
