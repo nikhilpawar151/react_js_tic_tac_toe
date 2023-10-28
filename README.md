@@ -12,7 +12,6 @@ This is a simple yet enjoyable Tic Tac Toe game developed using React.js and enh
 - Play against a friend.
 - Responsive design for desktop and mobile.
 - Material UI for an attractive and user-friendly interface.
-- Cross platform
 
 # Demo
 
