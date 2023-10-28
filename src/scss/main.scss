@@ -1,0 +1,57 @@
+body{
+    background-color: #E4E4E4;
+}
+
+.mainDiv{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 25px;
+}
+
+.gameWindow{
+    background-color: white;
+    border-radius: 37px;
+}
+
+.tickCardRow{
+    display: flex;
+    justify-content: space-around;
+}
+
+.tickCard{
+    width: 100px;
+    height: 100px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.boxName{
+    background-color: white;
+    padding: 10px;
+    border-radius: 16px;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}   
+
+.boxResult{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 16px;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;   
+    &:hover {
+        cursor: pointer;
+    }
+}
+
