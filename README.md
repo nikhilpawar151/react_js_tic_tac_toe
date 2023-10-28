@@ -15,7 +15,7 @@ This is a simple yet enjoyable Tic Tac Toe game developed using React.js and enh
 
 # Demo
 
-You can play the game live here: [Tic Tac Toe Game Demo](https://github.com/nikhilpawar151/react_js_tic_tac_toe).
+You can play the game live here: [Tic Tac Toe Game Demo](https://nikhilpawar.co.in/portfolio/ticTacToe/).
 
 ## Installation
 
